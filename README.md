@@ -1,72 +1,56 @@
-# Hi there, I'm Hussein Mohamed 👋
+# Hussein Mohamed 👋
 **Front-End Angular Developer | MEAN Stack Enthusiast**
 
 📍 El Fayoum, Egypt  
-📧 [Email](mailto:husseinstohy@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/hussein-stohy) | [GitHub](https://github.com/Hussein-Stohy)
+📧 husseinstohy@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/hussein-stohy)
 
 ---
 
 ## 💻 About Me
-I’m a Front-End Angular Developer with hands-on experience building **scalable, responsive, and maintainable web applications** using:
-
-- **Angular 18**, TypeScript, RxJS  
-- HTML5, CSS3, TailwindCSS  
-- REST APIs integration  
-- Component-based architecture & reusable UI design  
-- Agile team collaboration, Git version control  
-
-I enjoy developing modern web apps with clean code, optimized performance, and user-centric design.  
+I’m a Front-End Angular Developer with experience building **scalable, responsive web applications**.  
+Skilled in **Angular 18, TypeScript, RxJS, HTML5, CSS3, TailwindCSS**, and **component-based architecture**.  
+I enjoy creating **reusable UI components** and optimizing performance for high-quality user experiences.
 
 ---
 
 ## 🛠 Skills
-
-**Front-End:** Angular, TypeScript, JavaScript, RxJS, HTML5, CSS3  
-**Back-End (Familiar):** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, SQL Server  
-**Tools:** Git, Docker, Postman, Jira  
-**Languages:** Arabic (Native), English (Professional Proficiency)  
+- **Front-End:** Angular, TypeScript, JavaScript, RxJS, HTML5, CSS3, TailwindCSS  
+- **Back-End (Familiar):** Node.js, Express.js, REST APIs  
+- **Databases:** MongoDB, SQL Server  
+- **Design Tools:** Sketch, Figma, Adobe XD  
+- **Tools:** Git, Docker, Postman, Jira  
+- **Languages:** Arabic (Native), English (Professional Proficiency)  
 
 ---
 
 ## 🚀 Projects
 
-### [AwesomeJS Monorepo](https://github.com/Hussein-Stohy/awesome-js)
+### AwesomeJS Monorepo
 *Front-End Angular Developer*  
-- Contributed to a company-level frontend monorepo aligned with the BeamJS roadmap  
-- Developed Angular libraries with scalable monorepo architecture  
-- Integrated LLM-based services for AI-assisted features  
-- Built reusable charting components and demo applications  
+- Scalable monorepo architecture  
+- Integrated AI-assisted features with LLM services  
+- Reusable charting components & demo applications  
 
-### [Enterprise Admin Dashboard](https://github.com/Hussein-Stohy/admin-dashboard)
-*Front-End Angular Developer | Angular 18, TailwindCSS*  
+### Enterprise Admin Dashboard
+*Angular 18, TailwindCSS*  
 - Modern enterprise-grade admin dashboard  
-- Role-based access control (RBAC), JWT authentication, route guards  
-- Reusable UI components, dashboards, and analytics using Chart.js  
-- Performance optimization with lazy loading & OnPush change detection  
-- [Live Demo](https://hussein-stohy.github.io/admin-dashboard/dashboard)
+- RBAC, JWT authentication, route guards  
+- Reusable UI components, dashboards, analytics  
 
-### [Todo App](https://github.com/Hussein-Stohy/todo-app)
-*Front-End Angular Developer | Angular 18*  
-- Responsive Todo app with CRUD operations  
-- Component-based architecture & reusable UI  
-- Optimized for desktop and mobile  
-- [Live Demo](https://hussein-stohy.github.io/todo-app/)
+### Todo App
+*Angular 18*  
+- Responsive Todo application  
+- Full CRUD operations  
+- Component-based architecture  
 
-### [Bookstore Management System](https://github.com/Hussein-Stohy/Bookstore)
-*Front-End Angular Developer | MEAN Stack*  
+### Bookstore Management System
+*MEAN Stack*  
 - Angular UI with routing, forms, REST API integration  
-- JWT-based authentication and user authorization  
+- JWT authentication & user authorization  
 
 ---
 
 ## 🎓 Certifications
-- **MEAN Stack Development Program (120 Hours)** – National Telecommunication Institute (NTI), Feb 2025  
-  Focus: Angular front-end development & REST API integration  
-
----
-
-## 📈 GitHub Stats
-
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussein-Stohy&show_icons=true&theme=radical)
+- **MEAN Stack Development Program (120 Hours)** – NTI, Feb 2025  
+  Focus: Angular front-end development & REST API integration
